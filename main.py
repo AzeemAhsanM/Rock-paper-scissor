@@ -37,6 +37,6 @@ while True:
 
 print("you won1", user_wins, "times")
 print("the computer won", computer_wins, "times")
-print("End")
+print("End of th e Game")
 
 
